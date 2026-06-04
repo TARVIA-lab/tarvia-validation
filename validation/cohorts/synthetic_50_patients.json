@@ -1,0 +1,1017 @@
+[
+  {
+    "patient_id": "SYN_001",
+    "tumor_type": "Non-small cell lung adenocarcinoma",
+    "variants": [
+      {
+        "gene": "EGFR",
+        "hgvs_p": "p.L858R",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "EGFR L858R activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_002",
+    "tumor_type": "Non-small cell lung adenocarcinoma",
+    "variants": [
+      {
+        "gene": "EGFR",
+        "hgvs_p": "p.L858R",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "EGFR L858R activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_003",
+    "tumor_type": "Non-small cell lung adenocarcinoma",
+    "variants": [
+      {
+        "gene": "EGFR",
+        "hgvs_p": "p.L858R",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "EGFR L858R activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_004",
+    "tumor_type": "Non-small cell lung adenocarcinoma",
+    "variants": [
+      {
+        "gene": "EGFR",
+        "hgvs_p": "p.L858R",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "EGFR L858R activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_005",
+    "tumor_type": "Non-small cell lung adenocarcinoma",
+    "variants": [
+      {
+        "gene": "EGFR",
+        "hgvs_p": "p.L858R",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "EGFR L858R activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_006",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "KRAS",
+        "hgvs_p": "p.G12C",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "KRAS G12C activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_007",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "KRAS",
+        "hgvs_p": "p.G12C",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "KRAS G12C activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_008",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "KRAS",
+        "hgvs_p": "p.G12C",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "KRAS G12C activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_009",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "KRAS",
+        "hgvs_p": "p.G12C",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "KRAS G12C activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_010",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "KRAS",
+        "hgvs_p": "p.G12C",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "KRAS G12C activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_011",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "ALK",
+        "hgvs_p": "p.Fusion",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "ALK fusion activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_012",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "ALK",
+        "hgvs_p": "p.Fusion",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "ALK fusion activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_013",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "ALK",
+        "hgvs_p": "p.Fusion",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "ALK fusion activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_014",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "ALK",
+        "hgvs_p": "p.Fusion",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "ALK fusion activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_015",
+    "tumor_type": "NSCLC",
+    "variants": [
+      {
+        "gene": "ALK",
+        "hgvs_p": "p.Fusion",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "ALK fusion activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_016",
+    "tumor_type": "High-grade serous ovarian cancer",
+    "variants": [
+      {
+        "gene": "TP53",
+        "hgvs_p": "p.R175H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 2",
+          "mechanism": "TP53 R175H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_017",
+    "tumor_type": "High-grade serous ovarian cancer",
+    "variants": [
+      {
+        "gene": "TP53",
+        "hgvs_p": "p.R175H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 2",
+          "mechanism": "TP53 R175H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_018",
+    "tumor_type": "High-grade serous ovarian cancer",
+    "variants": [
+      {
+        "gene": "TP53",
+        "hgvs_p": "p.R175H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 2",
+          "mechanism": "TP53 R175H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_019",
+    "tumor_type": "High-grade serous ovarian cancer",
+    "variants": [
+      {
+        "gene": "TP53",
+        "hgvs_p": "p.R175H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 2",
+          "mechanism": "TP53 R175H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_020",
+    "tumor_type": "High-grade serous ovarian cancer",
+    "variants": [
+      {
+        "gene": "TP53",
+        "hgvs_p": "p.R175H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 2",
+          "mechanism": "TP53 R175H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_021",
+    "tumor_type": "HGSOC",
+    "variants": [
+      {
+        "gene": "BRCA2",
+        "hgvs_p": "p.Phe1794fs*7",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_022",
+    "tumor_type": "HGSOC",
+    "variants": [
+      {
+        "gene": "BRCA2",
+        "hgvs_p": "p.Phe1794fs*7",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_023",
+    "tumor_type": "HGSOC",
+    "variants": [
+      {
+        "gene": "BRCA2",
+        "hgvs_p": "p.Phe1794fs*7",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_024",
+    "tumor_type": "HGSOC",
+    "variants": [
+      {
+        "gene": "BRCA2",
+        "hgvs_p": "p.Phe1794fs*7",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_025",
+    "tumor_type": "HGSOC",
+    "variants": [
+      {
+        "gene": "BRCA2",
+        "hgvs_p": "p.Phe1794fs*7",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_026",
+    "tumor_type": "Hormone receptor positive breast cancer",
+    "variants": [
+      {
+        "gene": "PIK3CA",
+        "hgvs_p": "p.E545K",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "PIK3CA E545K activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_027",
+    "tumor_type": "Hormone receptor positive breast cancer",
+    "variants": [
+      {
+        "gene": "PIK3CA",
+        "hgvs_p": "p.E545K",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "PIK3CA E545K activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_028",
+    "tumor_type": "Hormone receptor positive breast cancer",
+    "variants": [
+      {
+        "gene": "PIK3CA",
+        "hgvs_p": "p.E545K",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "PIK3CA E545K activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_029",
+    "tumor_type": "Hormone receptor positive breast cancer",
+    "variants": [
+      {
+        "gene": "PIK3CA",
+        "hgvs_p": "p.E545K",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "PIK3CA E545K activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_030",
+    "tumor_type": "Hormone receptor positive breast cancer",
+    "variants": [
+      {
+        "gene": "PIK3CA",
+        "hgvs_p": "p.E545K",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "PIK3CA E545K activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_031",
+    "tumor_type": "Breast cancer",
+    "variants": [
+      {
+        "gene": "BRCA1",
+        "hgvs_p": "p.Trp1797fs*1",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_032",
+    "tumor_type": "Breast cancer",
+    "variants": [
+      {
+        "gene": "BRCA1",
+        "hgvs_p": "p.Trp1797fs*1",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_033",
+    "tumor_type": "Breast cancer",
+    "variants": [
+      {
+        "gene": "BRCA1",
+        "hgvs_p": "p.Trp1797fs*1",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_034",
+    "tumor_type": "Breast cancer",
+    "variants": [
+      {
+        "gene": "BRCA1",
+        "hgvs_p": "p.Trp1797fs*1",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_035",
+    "tumor_type": "Breast cancer",
+    "variants": [
+      {
+        "gene": "BRCA1",
+        "hgvs_p": "p.Trp1797fs*1",
+        "consequence": "frameshift_variant",
+        "vaf": 0.5,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "HBOC syndrome - loss of DNA repair",
+          "germline": true,
+          "syndrome": "HBOC"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_036",
+    "tumor_type": "Glioblastoma",
+    "variants": [
+      {
+        "gene": "IDH1",
+        "hgvs_p": "p.R132H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "IDH1 R132H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_037",
+    "tumor_type": "Glioblastoma",
+    "variants": [
+      {
+        "gene": "IDH1",
+        "hgvs_p": "p.R132H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "IDH1 R132H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_038",
+    "tumor_type": "Glioblastoma",
+    "variants": [
+      {
+        "gene": "IDH1",
+        "hgvs_p": "p.R132H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "IDH1 R132H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_039",
+    "tumor_type": "Glioblastoma",
+    "variants": [
+      {
+        "gene": "IDH1",
+        "hgvs_p": "p.R132H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "IDH1 R132H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_040",
+    "tumor_type": "Glioblastoma",
+    "variants": [
+      {
+        "gene": "IDH1",
+        "hgvs_p": "p.R132H",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "IDH1 R132H activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_041",
+    "tumor_type": "Colorectal cancer",
+    "variants": [
+      {
+        "gene": "BRAF",
+        "hgvs_p": "p.V600E",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "BRAF V600E activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_042",
+    "tumor_type": "Colorectal cancer",
+    "variants": [
+      {
+        "gene": "BRAF",
+        "hgvs_p": "p.V600E",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "BRAF V600E activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_043",
+    "tumor_type": "Colorectal cancer",
+    "variants": [
+      {
+        "gene": "BRAF",
+        "hgvs_p": "p.V600E",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "BRAF V600E activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_044",
+    "tumor_type": "Colorectal cancer",
+    "variants": [
+      {
+        "gene": "BRAF",
+        "hgvs_p": "p.V600E",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "BRAF V600E activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_045",
+    "tumor_type": "Colorectal cancer",
+    "variants": [
+      {
+        "gene": "BRAF",
+        "hgvs_p": "p.V600E",
+        "consequence": "missense_variant",
+        "vaf": 0.4,
+        "ground_truth": {
+          "clinical_significance": "Pathogenic",
+          "oncological_relevance": "High",
+          "evidence_tier": "Tier 1",
+          "mechanism": "BRAF V600E activating/loss-of-function mutation",
+          "germline": false
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "PASS"
+  },
+  {
+    "patient_id": "SYN_046",
+    "tumor_type": "CRC",
+    "variants": [
+      {
+        "gene": "PTEN",
+        "hgvs_p": "p.L233P",
+        "consequence": "missense_variant",
+        "vaf": 0.3,
+        "ground_truth": {
+          "clinical_significance": "VUS",
+          "oncological_relevance": "Unknown",
+          "evidence_tier": "Tier 4",
+          "mechanism": "Unknown - insufficient evidence",
+          "germline": false,
+          "notes": "Recommend functional studies"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "FAIL"
+  },
+  {
+    "patient_id": "SYN_047",
+    "tumor_type": "CRC",
+    "variants": [
+      {
+        "gene": "PTEN",
+        "hgvs_p": "p.L233P",
+        "consequence": "missense_variant",
+        "vaf": 0.3,
+        "ground_truth": {
+          "clinical_significance": "VUS",
+          "oncological_relevance": "Unknown",
+          "evidence_tier": "Tier 4",
+          "mechanism": "Unknown - insufficient evidence",
+          "germline": false,
+          "notes": "Recommend functional studies"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "FAIL"
+  },
+  {
+    "patient_id": "SYN_048",
+    "tumor_type": "CRC",
+    "variants": [
+      {
+        "gene": "PTEN",
+        "hgvs_p": "p.L233P",
+        "consequence": "missense_variant",
+        "vaf": 0.3,
+        "ground_truth": {
+          "clinical_significance": "VUS",
+          "oncological_relevance": "Unknown",
+          "evidence_tier": "Tier 4",
+          "mechanism": "Unknown - insufficient evidence",
+          "germline": false,
+          "notes": "Recommend functional studies"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "FAIL"
+  },
+  {
+    "patient_id": "SYN_049",
+    "tumor_type": "CRC",
+    "variants": [
+      {
+        "gene": "PTEN",
+        "hgvs_p": "p.L233P",
+        "consequence": "missense_variant",
+        "vaf": 0.3,
+        "ground_truth": {
+          "clinical_significance": "VUS",
+          "oncological_relevance": "Unknown",
+          "evidence_tier": "Tier 4",
+          "mechanism": "Unknown - insufficient evidence",
+          "germline": false,
+          "notes": "Recommend functional studies"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "FAIL"
+  },
+  {
+    "patient_id": "SYN_050",
+    "tumor_type": "CRC",
+    "variants": [
+      {
+        "gene": "PTEN",
+        "hgvs_p": "p.L233P",
+        "consequence": "missense_variant",
+        "vaf": 0.3,
+        "ground_truth": {
+          "clinical_significance": "VUS",
+          "oncological_relevance": "Unknown",
+          "evidence_tier": "Tier 4",
+          "mechanism": "Unknown - insufficient evidence",
+          "germline": false,
+          "notes": "Recommend functional studies"
+        }
+      }
+    ],
+    "expected_tarvia_variant_gate": "FAIL"
+  }
+]

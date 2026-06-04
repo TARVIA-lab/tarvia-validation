@@ -1,0 +1,458 @@
+{
+  "timestamp": "2026-06-04T12:23:24.360978",
+  "cohort_size": 50,
+  "success_count": 50,
+  "gate_accuracy": 1.0,
+  "results": [
+    {
+      "patient_id": "SYN_001",
+      "tumor_type": "Non-small cell lung adenocarcinoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_002",
+      "tumor_type": "Non-small cell lung adenocarcinoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_003",
+      "tumor_type": "Non-small cell lung adenocarcinoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_004",
+      "tumor_type": "Non-small cell lung adenocarcinoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_005",
+      "tumor_type": "Non-small cell lung adenocarcinoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_006",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_007",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_008",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_009",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_010",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_011",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_012",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_013",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_014",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_015",
+      "tumor_type": "NSCLC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_016",
+      "tumor_type": "High-grade serous ovarian cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_017",
+      "tumor_type": "High-grade serous ovarian cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_018",
+      "tumor_type": "High-grade serous ovarian cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_019",
+      "tumor_type": "High-grade serous ovarian cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_020",
+      "tumor_type": "High-grade serous ovarian cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_021",
+      "tumor_type": "HGSOC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_022",
+      "tumor_type": "HGSOC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_023",
+      "tumor_type": "HGSOC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_024",
+      "tumor_type": "HGSOC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_025",
+      "tumor_type": "HGSOC",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_026",
+      "tumor_type": "Hormone receptor positive breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_027",
+      "tumor_type": "Hormone receptor positive breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_028",
+      "tumor_type": "Hormone receptor positive breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_029",
+      "tumor_type": "Hormone receptor positive breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_030",
+      "tumor_type": "Hormone receptor positive breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_031",
+      "tumor_type": "Breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_032",
+      "tumor_type": "Breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_033",
+      "tumor_type": "Breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_034",
+      "tumor_type": "Breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_035",
+      "tumor_type": "Breast cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_036",
+      "tumor_type": "Glioblastoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_037",
+      "tumor_type": "Glioblastoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_038",
+      "tumor_type": "Glioblastoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_039",
+      "tumor_type": "Glioblastoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_040",
+      "tumor_type": "Glioblastoma",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_041",
+      "tumor_type": "Colorectal cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_042",
+      "tumor_type": "Colorectal cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_043",
+      "tumor_type": "Colorectal cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_044",
+      "tumor_type": "Colorectal cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_045",
+      "tumor_type": "Colorectal cancer",
+      "simulated_score": 87.3,
+      "simulated_gate": "PASS",
+      "expected_gate": "PASS",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_046",
+      "tumor_type": "CRC",
+      "simulated_score": 72.5,
+      "simulated_gate": "FAIL",
+      "expected_gate": "FAIL",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_047",
+      "tumor_type": "CRC",
+      "simulated_score": 72.5,
+      "simulated_gate": "FAIL",
+      "expected_gate": "FAIL",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_048",
+      "tumor_type": "CRC",
+      "simulated_score": 72.5,
+      "simulated_gate": "FAIL",
+      "expected_gate": "FAIL",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_049",
+      "tumor_type": "CRC",
+      "simulated_score": 72.5,
+      "simulated_gate": "FAIL",
+      "expected_gate": "FAIL",
+      "gate_correct": true,
+      "status": "success"
+    },
+    {
+      "patient_id": "SYN_050",
+      "tumor_type": "CRC",
+      "simulated_score": 72.5,
+      "simulated_gate": "FAIL",
+      "expected_gate": "FAIL",
+      "gate_correct": true,
+      "status": "success"
+    }
+  ]
+}
